@@ -1,2 +1,4 @@
 # bus-data-analysis
-22학년도 동계 현장실습 과제로 진행한 온디멘드 버스 배차이력데이터분석 프로젝트입니다.
+2022 winter semester, on-demand bus service data analysis
+
+
